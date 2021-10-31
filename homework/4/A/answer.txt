@@ -1,8 +1,8 @@
 D
 B
-AD
-C
-ABD
+ACD
+BC
+BD
 ABC
 BC
 B
