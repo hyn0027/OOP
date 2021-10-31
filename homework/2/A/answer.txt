@@ -1,8 +1,8 @@
 BD
 BD
 ABCD
-AD
+D
 ABCD
-ABD
+ABCD
 ACD
 BCD
